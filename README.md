@@ -1,3 +1,3 @@
 # BubbleSort-Visualizer
 
-This is a sorting visualiser which visualiser the bubblesort algorithm. 
+This is a sorting visualiser which visualises the bubblesort algorithm. 
