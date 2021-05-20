@@ -12,7 +12,6 @@ import javax.swing.SwingUtilities;
 import javax.swing.SwingWorker;
 
 public class Visualizer extends JPanel {
-    private static final long serialVersionUID = 1L;
     private final int WIDTH = 1000, HEIGHT = 560;
     private final int SIZE = 200;
     private final float BAR_WIDTH = (float)WIDTH / SIZE;
